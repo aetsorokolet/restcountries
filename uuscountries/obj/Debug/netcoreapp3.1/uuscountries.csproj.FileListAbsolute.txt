@@ -1,0 +1,13 @@
+C:\Users\Aet\Desktop\uuscountries\uuscountries\bin\Debug\netcoreapp3.1\uuscountries.exe
+C:\Users\Aet\Desktop\uuscountries\uuscountries\obj\Debug\netcoreapp3.1\uuscountries.csprojAssemblyReference.cache
+C:\Users\Aet\Desktop\uuscountries\uuscountries\obj\Debug\netcoreapp3.1\uuscountries.AssemblyInfoInputs.cache
+C:\Users\Aet\Desktop\uuscountries\uuscountries\obj\Debug\netcoreapp3.1\uuscountries.AssemblyInfo.cs
+C:\Users\Aet\Desktop\uuscountries\uuscountries\bin\Debug\netcoreapp3.1\uuscountries.deps.json
+C:\Users\Aet\Desktop\uuscountries\uuscountries\bin\Debug\netcoreapp3.1\uuscountries.runtimeconfig.json
+C:\Users\Aet\Desktop\uuscountries\uuscountries\bin\Debug\netcoreapp3.1\uuscountries.runtimeconfig.dev.json
+C:\Users\Aet\Desktop\uuscountries\uuscountries\bin\Debug\netcoreapp3.1\uuscountries.dll
+C:\Users\Aet\Desktop\uuscountries\uuscountries\bin\Debug\netcoreapp3.1\uuscountries.pdb
+C:\Users\Aet\Desktop\uuscountries\uuscountries\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aet\Desktop\uuscountries\uuscountries\obj\Debug\netcoreapp3.1\uuscountries.csproj.CopyComplete
+C:\Users\Aet\Desktop\uuscountries\uuscountries\obj\Debug\netcoreapp3.1\uuscountries.dll
+C:\Users\Aet\Desktop\uuscountries\uuscountries\obj\Debug\netcoreapp3.1\uuscountries.pdb
